@@ -1,0 +1,29 @@
+body{
+    font-family:'Times New Roman', Times, serif
+}
+
+#header {
+    
+  
+}
+
+#header{
+    text-align: center;
+}
+
+#content{
+    display: none
+}
+
+#toggleBtn{
+    background-color: blueviolet;
+    width: 10rem;
+    height: 30px;
+    border: none;
+    color: white;
+}
+
+#toggleBtn:hover{
+    cursor: pointer;
+    opacity: 0.9;
+}
